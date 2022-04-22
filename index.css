@@ -1,4 +1,35 @@
 #elements {
-    padding: 0;
-    margin-left: 50px;
+    padding-left: 0px;
+    margin-left: 0px;
+    
 }
+#buttons {
+    padding-left: 35px;
+    margin-left: 0px;
+    border-color: red;
+}
+#Square {
+    color: red;
+}
+#Square:hover {
+    color:blue;
+}
+#Cube {
+    color: red;
+}
+#Cube:hover {
+    color: blue;
+}
+#Fourth {
+    color: red;
+}
+#Fourth:hover {
+    color: blue;
+}
+h1 {
+    color: red;
+    font-size: medium;
+    padding-left: 35px;
+}
+
+
